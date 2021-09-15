@@ -4,3 +4,4 @@ master!
 cat!
 Dog!
 Bird!
+Bear!
